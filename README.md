@@ -1,9 +1,9 @@
 [![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/whirldactyl/panel/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jonuffykk/whirldactyl/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
 ![Discord](https://img.shields.io/discord/1177395524949770341?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
-![GitHub Releases](https://img.shields.io/github/downloads/whirldactyl/panel/latest/total?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/whirldactyl/panel?style=for-the-badge)
+![GitHub Releases](https://img.shields.io/github/downloads/jonuffykk/whirldactyl/latest/total?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/jonuffykk/whirldactyl?style=for-the-badge)
 
 # Whirldactyl Panel
 
