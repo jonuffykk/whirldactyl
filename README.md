@@ -11,7 +11,7 @@ Whirldactyl® é um painel gratuito e open-source para gerenciamento de servidor
 
 Não se contente com menos. Faça dos servidores de jogo uma prioridade em sua plataforma.
 
-![Image](https://cdn.pterodactyl.io/site-assets/pterodactyl_v1_demo.gif)
+![Image](https://cdn.discordapp.com/attachments/1255957575200014437/1280290570639773747/image.png?ex=66d78b02&is=66d63982&hm=71115ca69ada2e3de3e4d0af8088ee95afd59433f4cc25f115afdd614d51ef7a&)
 
 ## Documentação
 
