@@ -1,4 +1,4 @@
-[![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
+[![Logo Image](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfUmvDC30IXwi8rcE4jeJEr-vtkgcmttvFiQrl7mEEisFngyNz3sGvjmr3zN5EK4mqEyvbclAO3Alo0_PCG9tv74j9bznTxLxxGMMDPTFvsEfeyBW9wyCqb-eMLR6607Df-i9WpS0Q2MQm3fYNwCGK-rY?key=JWHCEgmzQ22CiTtMEO4DMg)](https://whirl.com.br)
 
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/jonuffykk/whirldactyl/ci.yaml?label=Tests&style=for-the-badge&branch=1.0-develop)
 ![Discord](https://img.shields.io/discord/1177395524949770341?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
